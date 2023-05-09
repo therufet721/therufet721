@@ -6,10 +6,15 @@ Full Stack Developer
 
 * 🌍  I'm based in Baku, Azerbaijan
 * ✉️  You can contact me at [rufet.arzumanov@gmail.com](mailto:rufet.arzumanov@gmail.com)
-* 🚀  I'm currently working on [Cybernet](http://cybernet.az)
-* 🧠  I'm learning Ant Design
 
-### Skills
+Skills
+As a Full Stack Developer, I have a wide range of skills that I have acquired over the years. Here are some of the key skills that I possess:
+
+* Proficient in JavaScript, TypeScript, and Python
+* Strong knowledge of HTML5, React, Next.js, and Tailwind CSS
+* Experienced with Bootstrap, Material UI, Redux, and Webpack
+* Skilled in Node.js, Express, MongoDB, and Firebase
+* Familiar with Heroku, Photoshop, and Illustrator
 
 
 <p align="left">
