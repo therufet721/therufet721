@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Baku, Azerbaijan
+* 🌍  I'm based in Malta
 * ✉️  You can contact me at [rufet.arzumanov@gmail.com](mailto:rufet.arzumanov@gmail.com)
 
 Skills
