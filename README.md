@@ -8,14 +8,25 @@ Full Stack Developer
 * ✉️  You can contact me at [rufet.arzumanov@gmail.com](mailto:rufet.arzumanov@gmail.com)
 
 Skills
-As a Full Stack Developer, I have a wide range of skills that I have acquired over the years. Here are some of the key skills that I possess:
+As a Full Stack Engineer, I bring strong frontend architecture experience combined with solid backend and Web3 integration knowledge.
 
-* Proficient in JavaScript, TypeScript, and Python
-* Strong knowledge of HTML5, React, Next.js, and Tailwind CSS
-* Experienced with Bootstrap, Material UI, Redux, and Webpack
-* Skilled in Node.js, Express, MongoDB, and Firebase
-* Familiar with Heroku, Photoshop, and Illustrator
+Languages: TypeScript, JavaScript, Python, SQL
 
+Frontend: React, Next.js, Vite, Tailwind CSS, SCSS, Bootstrap, Material UI
+
+State Management: Redux, Redux Toolkit, React Context
+
+Backend: Node.js, Express, Flask
+
+Databases: MongoDB, PostgreSQL, Firebase
+
+Web3: Ethers.js, Wagmi, RainbowKit, Smart Contract integration (Polygon)
+
+Testing: Jest, React Testing Library
+
+DevOps & Tools: Git, GitLab CI/CD, GitHub Actions, Docker, AWS, Webpack, Nx
+
+Other Tools: Figma, Storybook, Photoshop, Illustrator
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
